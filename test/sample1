@@ -6,6 +6,7 @@ pipeline {
       args ‘-v /tmp:/tmp -p 80:80’
     } 
   } 
+  //this is a test
   environment {
     GIT_COMMITTER_NAME = ‘jenkins’
   } 
