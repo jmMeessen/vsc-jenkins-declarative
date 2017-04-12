@@ -1,0 +1,26 @@
+{
+    "name": "jenkins-declarative",
+    "displayName": "jenkins_declarative",
+    "description": "jenkins declarative syntax",
+    "version": "0.0.1",
+    "publisher": "Jmm",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "declarative",
+            "aliases": ["JenkinsDeclarativePipeline", "declarative"],
+            "extensions": [""],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "declarative",
+            "scopeName": "",
+            "path": "./syntaxes/declarative.tmLanguage.json"
+        }]
+    }
+}
