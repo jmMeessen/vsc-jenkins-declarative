@@ -14,13 +14,13 @@
         "languages": [{
             "id": "declarative",
             "aliases": ["JenkinsDeclarativePipeline", "declarative"],
-            "extensions": [""],
+            "extensions": [".jdp"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
             "language": "declarative",
             "scopeName": "source.jenkinsDeclarative",
-            "path": "./syntaxes/declarative.tmLanguage"
+            "path": "./syntaxes/declarative.tmLanguage.json"
         }]
     }
 }
