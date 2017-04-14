@@ -19,8 +19,8 @@
         }],
         "grammars": [{
             "language": "declarative",
-            "scopeName": "",
-            "path": "./syntaxes/declarative.tmLanguage.json"
+            "scopeName": "source.jenkinsDeclarative",
+            "path": "./syntaxes/declarative.tmLanguage"
         }]
     }
 }
