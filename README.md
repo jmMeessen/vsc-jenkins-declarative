@@ -23,11 +23,14 @@ The add-on will highligh the key elements of a Declarative Jenkins Pipeline. The
 
 ### Method 2
 
-to be described
+To start using your extension with Visual Studio Code:
+
+* Copy or clone it into the `<user home>/.vscode/extensions` folder 
+* Restart Code.
 
 ## Known Issues
 
-Under test.
+[Under test]
 
 If the correct file type is not detected at opening, it can be selected with the language selector at the bottom right of the editor's screen.
 
@@ -41,7 +44,7 @@ Initial release
 
 **MIT License**
 
-Copyright (c) 2017 Jean-Marc MEESSEN <jean-marc@meessen-web.org>
+Copyright (c) 2017 Jean-Marc MEESSEN (jean-marc@meessen-web.org)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

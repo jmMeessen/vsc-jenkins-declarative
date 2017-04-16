@@ -1,15 +1,5 @@
 # notes
 
-## Get up and running straight away
-* Make sure the language configuration settings in `language-configuration.json` are accurate
-* press `F5` to open a new window with your extension loaded
-* create a new file with a file name suffix matching your language
-* verify that syntax highlight works and that the language configuration settings are working
-
-## Make changes
-* you can relaunch the extension from the debug toolbar after making changes to the files listed above
-* you can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes
-
 ## Add more language features
 * To add features such as intellisense, hovers and validators check out the VS Code extenders documentation at
 https://code.visualstudio.com/docs
