@@ -22,6 +22,7 @@
         "jenkinsfile",
         "Jenkins"
     ],
+    "icon": "jenkins.png",
     "contributes": {
         "languages": [{
             "id": "declarative",
