@@ -12,6 +12,8 @@ A description of the format can be found on [https://jenkins.io/doc/book/pipelin
 The add-on will highligh the key elements of a Declarative Jenkins Pipeline. The elements of **section** (like *post*, *stages* or *step*) and **directive** (like *agent*, *environment* or *tools*) level are colorized. The **script** element (that contains Groovy code) are not specifically parsed. 
 
 
+![Highlighter screenshot](highlighter_screenshot.png)
+
 ## Installing
 
 ### Method 1 (development)
@@ -39,6 +41,10 @@ If the correct file type is not detected at opening, it can be selected with the
 ### 0.1.0
 
 Initial release 
+
+## Contribution
+
+Contributions are welcomed through a Github Pull Request.
 
 ## Licence
 
